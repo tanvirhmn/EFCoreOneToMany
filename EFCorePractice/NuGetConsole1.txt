@@ -1,0 +1,4 @@
+then go to Tools > NuGet Package Manager > Package Manager Console. Then execute following commands one by one.
+
+Add-Migration "InitialCreate"
+Update-Database
